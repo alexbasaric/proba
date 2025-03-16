@@ -37,7 +37,7 @@ https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%20250316101
 
 
 
-![[images/Pasted image 20250316101119.png]]
+![[Pasted image 20250316101119.png]]
 
 ![zurich1](
 https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%2020250316101153.png)
@@ -56,9 +56,16 @@ https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%20202503161
 
 https://imperialbath.net/product/cleancut-ultra-low-kit/
 
+Watch video for product sizing:  https://player.vimeo.com/video/299642455
+
 ## Product sizing
 
-![](images/Pasted%20image%2020250316183619.png)
+![](Pasted%20image%2020250316183619.png)
 
+### Messure the width of top rail at 3 points
 
 ![](Pasted%20image%2020250316184224.png)
+
+### Measure approx 9.75 inches down
+
+![](Pasted%20image%2020250316184840.png)
