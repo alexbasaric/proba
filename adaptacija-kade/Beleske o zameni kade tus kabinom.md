@@ -52,3 +52,12 @@ https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%20202503161
 |MAAX base, walls, vrata|2700|?||
 |otvor na kadi|500 do 600| pitaj Sasu šašića||
 
+# Otvor na kadi
+
+https://imperialbath.net/product/cleancut-ultra-low-kit/
+
+## Product sizing
+
+![](Pasted%20image%2020250316183619.png)
+
+

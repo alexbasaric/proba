@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adaptacija-kade/Home Depot referal.md",
-                "collapseAll": false,
+                "file": "adaptacija-kade/Beleske o zameni kade tus kabinom.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home Depot referal"
+              "title": "Backlinks for Beleske o zameni kade tus kabinom"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adaptacija-kade/Home Depot referal.md",
+                "file": "adaptacija-kade/Beleske o zameni kade tus kabinom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home Depot referal"
+              "title": "Outgoing links from Beleske o zameni kade tus kabinom"
             }
           },
           {
@@ -142,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adaptacija-kade/Home Depot referal.md",
+                "file": "adaptacija-kade/Beleske o zameni kade tus kabinom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home Depot referal"
+              "title": "Outline of Beleske o zameni kade tus kabinom"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +170,7 @@
   },
   "active": "5373b66cef975621",
   "lastOpenFiles": [
+    "Pasted image 20250316183619.png",
     "images/Pasted image 20250316101153.png",
     "images/Pasted image 20250316101119.png",
     "images/Pasted image 20250316100848.png",
