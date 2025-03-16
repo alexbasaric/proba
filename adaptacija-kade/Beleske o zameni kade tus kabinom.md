@@ -18,16 +18,29 @@ Base - 600$
 Wall set - 680$
 60" Panel door - 929$
 
-![max](https://github.com/alexbasaric/proba/blob/main/adaptacija-kade/Pasted%20image%2020250316100848.png)
+
+
+![max](https://github.com/alexbasaric/proba/blob/main/images/adaptacija-kade/Pasted%20image%2020250316100848.png)
 
 ## Glacier Bay - Zurich
-![zurich1](
-https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%2020250316101153.png)
+
 
 
 base + klizna vrata = 687$ 
 
-![[Pasted image 20250316101119.png]]
+![zurich1](
+https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%2020250316101153.png)
+
+
+![zurich1](
+https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%20250316101119.png)
+
+
+
+![[images/Pasted image 20250316101119.png]]
+
+![zurich1](
+https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%2020250316101153.png)
 
 
 ![[Pasted image 20250316101153.png]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adaptacija-kade/readme.md",
+                "file": "adaptacija-kade/Beleske o zameni kade tus kabinom.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Beleske o zameni kade tus kabinom"
             }
           }
         ]
@@ -170,12 +170,13 @@
   },
   "active": "5373b66cef975621",
   "lastOpenFiles": [
-    "adaptacija-kade/Home Depot referal.md",
-    "adaptacija-kade/Pasted image 20250316100848.png",
-    "adaptacija-kade/readme.md",
     "images/Pasted image 20250316101153.png",
+    "images/Pasted image 20250316101119.png",
+    "images/Pasted image 20250316100848.png",
+    "adaptacija-kade/Beleske o zameni kade tus kabinom.md",
+    "adaptacija-kade/Home Depot referal.md",
+    "README.md",
     "images",
-    "Pasted image 20250316101119.png",
     "adaptacija-kade"
   ]
 }
