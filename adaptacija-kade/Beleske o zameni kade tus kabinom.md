@@ -61,4 +61,4 @@ https://imperialbath.net/product/cleancut-ultra-low-kit/
 ![](images/Pasted%20image%2020250316183619.png)
 
 
-![](adaptacija-kade/Pasted%20image%2020250316184224.png)
+![](Pasted%20image%2020250316184224.png)
