@@ -1,4 +1,4 @@
-Treba nesto uraditi da se omoguci ulazak u kadu bez preskakanja:-
+Treba nesto uraditi da se omoguci ulazak u kadu bez preskakanja. Na primer:
 - zameniti kadu tus kabinom
 - izrezati otvor na kadi
 
@@ -20,10 +20,10 @@ Wall set - 680$
 
 ![max](https://github.com/alexbasaric/proba/blob/main/adaptacija-kade/Pasted%20image%2020250316100848.png)
 
+## Glacier Bay - Zurich
+![zurich1](
+https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%2020250316101153.png)
 
-![[adaptacija-kade/Pasted image 20250316100848.png]]
-
-## Glacier Bay  - Zurich
 
 base + klizna vrata = 687$ 
 
