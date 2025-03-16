@@ -18,7 +18,7 @@ Base - 600$
 Wall set - 680$
 60" Panel door - 929$
 
-![max](Pasted image 20250316100848.png)
+![max](https://github.com/alexbasaric/proba/blob/main/adaptacija-kade/Pasted%20image%2020250316100848.png)
 
 
 ![[adaptacija-kade/Pasted image 20250316100848.png]]
