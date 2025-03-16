@@ -58,6 +58,6 @@ https://imperialbath.net/product/cleancut-ultra-low-kit/
 
 ## Product sizing
 
-![](Pasted%20image%2020250316183619.png)
+![](images/Pasted%20image%2020250316183619.png)
 
 
