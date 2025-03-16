@@ -15,7 +15,7 @@
               "state": {
                 "file": "adaptacija-kade/readme.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "readme"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adaptacija-kade/readme.md",
+                "file": "adaptacija-kade/Home Depot referal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks for Home Depot referal"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adaptacija-kade/readme.md",
+                "file": "adaptacija-kade/Home Depot referal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from readme"
+              "title": "Outgoing links from Home Depot referal"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adaptacija-kade/readme.md",
+                "file": "adaptacija-kade/Home Depot referal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of readme"
+              "title": "Outline of Home Depot referal"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "5373b66cef975621",
   "lastOpenFiles": [
-    "images/Pasted image 20250316101153.png",
-    "Pasted image 20250316100848.png",
+    "adaptacija-kade/Home Depot referal.md",
+    "adaptacija-kade/Pasted image 20250316100848.png",
     "adaptacija-kade/readme.md",
+    "images/Pasted image 20250316101153.png",
     "images",
     "Pasted image 20250316101119.png",
     "adaptacija-kade"

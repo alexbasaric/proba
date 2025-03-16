@@ -18,7 +18,10 @@ Base - 600$
 Wall set - 680$
 60" Panel door - 929$
 
-![[Pasted image 20250316100848.png]]
+![max](Pasted image 20250316100848.png)
+
+
+![[adaptacija-kade/Pasted image 20250316100848.png]]
 
 ## Glacier Bay  - Zurich
 
