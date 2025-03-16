@@ -33,4 +33,9 @@ base + klizna vrata = 687$
 ![[Pasted image 20250316101153.png]]
 
 
+|opcija| cena materijala| ruke otprilike |napomen|
+|---|---|---|---|
+|zurich base plus door|750|?|plus plocice do visine gde je bila kada|
+|MAAX base, walls, vrata|2700|?||
+|otvor na kadi|500 do 600| pitaj Sasu šašića||
 
