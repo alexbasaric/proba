@@ -3,6 +3,17 @@ Treba nesto uraditi da se omoguci ulazak u kadu bez preskakanja. Na primer:
 - izrezati otvor na kadi
 
 
+# Otvor na kadi
+
+## Bath tub to shower conversion
+
+https://bathtubtoshowerconversion.com/?gad_source=1&gclid=Cj0KCQjw7dm-BhCoARIsALFk4v8DWudnckv6ynhDGjojOlhT6jLF4mHBH2MkXAzIVT5JEDqyB1bKJvEaAotIEALw_wcB
+
+https://youtu.be/x79EAD6ihs4?si=_f5q9l59VF5KlmP5
+
+- Ovaj video je oko 13 minuta i lepo je opisan ceo postupak
+
+
 # Zamena kade tus kabinom
 
 Pogledao sam u Home Depou juce na brzinu, ima nekoliko proizvodjaca gotovih 'kitova' za ugradnju tus kabine.
