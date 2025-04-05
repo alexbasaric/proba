@@ -54,7 +54,10 @@ https://github.com/alexbasaric/proba/blob/main/images/Pasted%20image%20202503161
 
 # Otvor na kadi
 
-https://imperialbath.net/product/cleancut-ultra-low-kit/
+## https://bathtubtoshowerconversion.com/
+
+
+## https://imperialbath.net/product/cleancut-ultra-low-kit/
 
 Watch video for product sizing:  https://player.vimeo.com/video/299642455
 
@@ -69,3 +72,12 @@ Watch video for product sizing:  https://player.vimeo.com/video/299642455
 ### Measure approx 9.75 inches down
 
 ![](Pasted%20image%2020250316184840.png)
+## Nasa kada je reljefna iznura
+
+![](../Pasted%20image%2020250319145453.png)
+
+
+
+![](../Pasted%20image%2020250319145634.png)
+
+
